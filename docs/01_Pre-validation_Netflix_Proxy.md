@@ -5,7 +5,8 @@
   I have adjusted my analytical scope
 - This analysis focuses on **Users aged 18-49 years**, representing 92.92% of the Netflix dataset
 
-- 
+![Netflix Age Distribution](../images/aged_group.png)
+  
 ## 1. Proble Statement
 - Youtube churn data not publicly available
 - Need validated proxy model

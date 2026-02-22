@@ -6,7 +6,7 @@
 - This analysis focuses on **Users aged 18-49 years**, representing 92.92% of the Netflix dataset
 
 <p>
-  <img src="./images/aged_group.png" width="100%" title="Netflix Age distribution">
+  <img src="../images/aged_group.png" width="100%" title="Netflix Age distribution">
 </p>
   
 ## 1. Proble Statement

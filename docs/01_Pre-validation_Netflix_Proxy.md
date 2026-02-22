@@ -5,8 +5,12 @@
   I have adjusted my analytical scope
 - This analysis focuses on **Users aged 18-49 years**, representing 92.92% of the Netflix dataset
 
+**Netflix User Distribution:**
+- 18-29: 12.28%
+- 30-49: 80.64%
+- 50-64: 7.08%
 <p>
-  <img src="../images/aged_group.png" width="50%" title="Netflix Age distribution">
+  <img src="../images/aged_group.png" width="30%" title="Netflix Age distribution">
 </p>
   
 ## 1. Proble Statement
